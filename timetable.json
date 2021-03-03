@@ -1,0 +1,44 @@
+{
+    "MONDAY" : {
+        "one" : "21E-20CST-151_20BCS21_C",
+        "two" : "21E-20CST-151_20BCS21_C",
+        "three" : "21E-20PCT-154_20BCS21_All",
+        "four" : "21E-20SMT-175_20BCS21_All",
+        "five" : "21E-20ELP-152_20BCS21_C",
+        "six" : "21E-20ELP-152_20BCS21_C"
+    },
+    "TUESDAY" : {
+        "one" : "21E-20CSP-155_20BCS21_C",
+        "two" : "21E-20CSP-155_20BCS21_C",
+        "three" : "21E-20ELT-151_20BCS21_All",
+        "four" : "21E-20SPT-181_20BCS21_All",
+        "five" : "21E-20PCP-158_20BCS21_C",
+        "six" : "21E-20PCP-158_20BCS21_C"
+    },
+    "WEDNESDAY" : {
+        "one" : "21E-20ELT-151_20BCS21_All",
+        "four" : "21E-20SPT-181_20BCS21_All",
+        "five" : "21E-20CSP-152_20BCS21_C",
+        "six" : "21E-20CSP-152_20BCS21_C"
+    },
+    "THURSDAY" : {
+        "one" : "21E-20SPT-181_20BCS21_All",
+        "two" : "21E-20SMT-175_20BCS21_C",
+        "three" : "21E-20UCY-196_20BCS21_C",
+        "four" : "21E-20CSP-152_20BCS21_C",
+        "five" : "21E-20CSP-152_20BCS21_C",
+        "six" : "21E-20SMT-175_20BCS21_All"
+    },
+    "FRIDAY" : {
+        "one" : "21E-20SMT-175_20BCS21_C",
+        "two" : "21E-20SPP-182_20BCS21_C",
+        "three" : "21E-20SPP-182_20BCS21_C",
+        "four" : "21E-20ELT-151_20BCS21_All",
+        "five" : "21E-20SMT-175_20BCS21_All",
+        "six" : "21E-20PCT-154_20BCS21_All"
+    },
+    "SATURDAY" : {
+        "four" : "21E-20ECP-154_20BCS21_C",
+        "five" : "21E-20ECP-154_20BCS21_C"
+    }
+}
